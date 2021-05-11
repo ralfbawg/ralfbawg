@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ralfbawg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on go-socket.io
+- 👀 I’m interested in skating
+- 🌱 I’m currently learning Rust
+
 - 📫 ralfbawg@gmail.com
 
 <!---
